@@ -1,10 +1,10 @@
 {
-    "name": "superpig/eedo-customer-service-thinkphp-package",
+    "name": "haimiangao/mytest-b",
     "type": "think-extend",
     "license": "MIT",
     "authors": [
         {
-            "name": "superpig",
+            "name": "haimiangao",
             "email": "645531302@qq.com"
         }
     ],
